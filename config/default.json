@@ -1,0 +1,4 @@
+{
+  "mongoURI": "GiveYour Mongo URI here please",
+  "jwtSecret": "mysecrettoken"
+}
